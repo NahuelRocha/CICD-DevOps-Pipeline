@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk11
+FROM bellsoft/liberica-openjdk-alpine:17
 
 EXPOSE 8080
 
