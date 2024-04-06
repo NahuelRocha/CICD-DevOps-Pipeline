@@ -58,11 +58,11 @@
 	<distributionManagement>
 		<repository>
 			<id>maven-releases</id>
-			<url>http://127.0.0.1:43247/repository/maven-releases/</url>
+			<url>http://127.0.0.1:32847/repository/maven-releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>maven-snapshots</id>
-			<url>http://127.0.0.1:43247/repository/maven-snapshots/</url>
+			<url>http://127.0.0.1:32847/repository/maven-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 </project>
