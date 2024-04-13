@@ -9,6 +9,6 @@ public class CiCdController {
 
     @GetMapping("/hola")
     public ResponseEntity<String> getHello(){
-        return ResponseEntity.ok("Hello my friend!");
+        return ResponseEntity.ok("Hello my friend! Arvind");
     }
 }
